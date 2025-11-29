@@ -4,7 +4,7 @@
 <h2 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm NeuroDong </h2>
 
 - 🔭 I’m currently a PHD focusing on **Deep Learning; Confidence Calibration; Offline Reinforcement Learning; Large Model**.
-- 👯 I’m looking to discuss **Machine Learning; Learning Theory; Flow Matching; Offline Reinforcement Learning; Visual-Language Large model**.
+- 👯 I’m looking to discuss **Machine Learning; Offline Reinforcement Learning; Flow Matching; Learning Theory; Visual-Language Large model**.
 - 😄 I am currently doing joint PhD training at NUS.
 - 📫 How to reach me: Please mail me at e1710947@u.nus.edu
 
