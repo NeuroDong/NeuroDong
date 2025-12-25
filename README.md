@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a PHD focusing on **Deep Learning; Confidence Calibration; Offline Reinforcement Learning; Large Model**.
 - 👯 I’m looking to discuss **Machine Learning; Offline Reinforcement Learning; Flow Matching; Learning Theory; Visual-Language Large model**.
-- 😄 I'm doing a research internship at Shanghai AI Lab.
+- 😄 I'm doing a research internship at **Shanghai AI Lab**.
 - 📫 How to reach me: Please mail me at e1710947@u.nus.edu
 
 ![](https://raw.githubusercontent.com/shijian2001/shijian2001/output/github-contribution-grid-snake.svg)
