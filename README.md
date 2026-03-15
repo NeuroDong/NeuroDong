@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### 🛠️ Useful Tools
 
 <table style="border: none; width: 100%; table-layout: fixed;"><colgroup><col width="320"/><col/></colgroup><tr>
-<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><img src="./profile/Ai_Review.png" alt="Ai-Review" width="320" style="display: block; width: 320px;"/></td>
+<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><a href="https://github.com/NeuroDong/Ai-Review"><img src="./profile/Ai_Review.png" alt="Ai-Review" width="320" style="display: block; width: 320px;"/></a></td>
 <td valign="top" style="border: none; padding-left: 1em; word-wrap: break-word; overflow-wrap: break-word;">
 
 ### [Ai-Review](https://github.com/NeuroDong/Ai-Review) ![GitHub Repo stars](https://img.shields.io/github/stars/NeuroDong/Ai-Review?style=social)
@@ -43,7 +43,7 @@ Get **strengths, weaknesses, and suggestions** from a reviewer’s perspective.
 </td></tr></table>
 
 <table style="border: none; width: 100%; table-layout: fixed;"><colgroup><col width="320"/><col/></colgroup><tr>
-<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><img src="./profile/Review_Template.png" alt="Latex for review comments" width="320" style="display: block; width: 320px;"/></td>
+<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><a href="https://github.com/NeuroDong/Latex_for_review_comments"><img src="./profile/Review_Template.png" alt="Latex for review comments" width="320" style="display: block; width: 320px;"/></a></td>
 <td valign="top" style="border: none; padding-left: 1em; word-wrap: break-word; overflow-wrap: break-word;">
 <h3 style="margin: 0 0 0.5em 0;"><a href="https://github.com/NeuroDong/Latex_for_review_comments">Latex for Review Comments</a> <img src="https://img.shields.io/github/stars/NeuroDong/Latex_for_review_comments?style=social" alt="stars"/></h3>
 
@@ -54,7 +54,7 @@ Get **strengths, weaknesses, and suggestions** from a reviewer’s perspective.
 ### 🔬 Research Project
 
 <table style="border: none; width: 100%; table-layout: fixed;"><colgroup><col width="320"/><col/></colgroup><tr>
-<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><img src="./profile/PAR.png" alt="OfflineRL-PAR" width="320" style="display: block; width: 320px;"/></td>
+<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><a href="https://arxiv.org/abs/2602.07441"><img src="./profile/PAR.png" alt="OfflineRL-PAR" width="320" style="display: block; width: 320px;"/></a></td>
 <td valign="top" style="border: none; padding-left: 1em; word-wrap: break-word; overflow-wrap: break-word;">
 <h3 style="margin: 0 0 0.5em 0;"><a href="https://github.com/NeuroDong/OfflineRL-PAR">OfflineRL-PAR</a></h3>
 
@@ -65,7 +65,7 @@ Get **strengths, weaknesses, and suggestions** from a reviewer’s perspective.
 </td></tr></table>
 
 <table style="border: none; width: 100%; table-layout: fixed;"><colgroup><col width="320"/><col/></colgroup><tr>
-<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><img src="./profile/BPM.png" alt="TCEbpm" width="320" style="display: block; width: 320px;"/></td>
+<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33792"><img src="./profile/BPM.png" alt="TCEbpm" width="320" style="display: block; width: 320px;"/></a></td>
 <td valign="top" style="border: none; padding-left: 1em; word-wrap: break-word; overflow-wrap: break-word;">
 <h3 style="margin: 0 0 0.5em 0;"><a href="https://github.com/NeuroDong/TCEbpm">TCEbpm</a></h3>
 
@@ -75,7 +75,7 @@ Get **strengths, weaknesses, and suggestions** from a reviewer’s perspective.
 </td></tr></table>
 
 <table style="border: none; width: 100%; table-layout: fixed;"><colgroup><col width="320"/><col/></colgroup><tr>
-<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><img src="./profile/Cali_survey.png" alt="Cali for imbalance" width="320" style="display: block; width: 320px;"/></td>
+<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><a href="https://ieeexplore.ieee.org/abstract/document/11038829"><img src="./profile/Cali_survey.png" alt="Cali for imbalance" width="320" style="display: block; width: 320px;"/></a></td>
 <td valign="top" style="border: none; padding-left: 1em; word-wrap: break-word; overflow-wrap: break-word;">
 <h3 style="margin: 0 0 0.5em 0;"><a href="https://github.com/NeuroDong/Cali_for_imblance">Confidence Calibration for Class Imbalance</a></h3>
 
@@ -85,7 +85,7 @@ Get **strengths, weaknesses, and suggestions** from a reviewer’s perspective.
 </td></tr></table>
 
 <table style="border: none; width: 100%; table-layout: fixed;"><colgroup><col width="320"/><col/></colgroup><tr>
-<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><img src="./profile/EAAI.png" alt="Two-stage monitoring" width="320" style="display: block; width: 320px;"/></td>
+<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197623000337"><img src="./profile/EAAI.png" alt="Two-stage monitoring" width="320" style="display: block; width: 320px;"/></a></td>
 <td valign="top" style="border: none; padding-left: 1em; word-wrap: break-word; overflow-wrap: break-word;">
 <h3 style="margin: 0 0 0.5em 0;"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197623000337">Two-stage Classification for Taphole Monitoring</a></h3>
 
@@ -94,7 +94,7 @@ Get **strengths, weaknesses, and suggestions** from a reviewer’s perspective.
 </td></tr></table>
 
 <table style="border: none; width: 100%; table-layout: fixed;"><colgroup><col width="320"/><col/></colgroup><tr>
-<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><img src="./profile/Measurement.png" alt="Taphole blocking" width="320" style="display: block; width: 320px;"/></td>
+<td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0263224122013513"><img src="./profile/Measurement.png" alt="Taphole blocking" width="320" style="display: block; width: 320px;"/></a></td>
 <td valign="top" style="border: none; padding-left: 1em; word-wrap: break-word; overflow-wrap: break-word;">
 <h3 style="margin: 0 0 0.5em 0;"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0263224122013513">Using Molten Iron Flow Images to Help Block Taphole</a></h3>
 
