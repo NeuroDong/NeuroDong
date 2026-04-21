@@ -3,7 +3,7 @@ Hi there 👋
 - 🔭 I’m currently a PHD focusing on **Deep Learning; Confidence Calibration; Offline Reinforcement Learning; Generative Model**.
 - 👯 I’m looking to discuss **Machine Learning; Confidence Calibration; Offline Reinforcement Learning; Flow Matching; Learning Theory; Conformal Prediction**.
 - 😄 I'm doing a research internship at **Shanghai Ai Lab**.
-- 📫 How to reach me: Please mail me at e1710947@u.nus.edu
+- 📫 How to reach me: Please mail me at 234603034@csu.edu.cn
 
 ![](https://raw.githubusercontent.com/shijian2001/shijian2001/output/github-contribution-grid-snake.svg)
 
