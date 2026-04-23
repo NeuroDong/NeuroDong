@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <td width="320" valign="top" style="border: none; width: 320px; min-width: 320px;"><a href="https://github.com/NeuroDong/Ai-Review"><img src="./profile/Ai_Review.png" alt="Ai-Review" width="320" style="display: block; width: 320px;"/></a></td>
 <td valign="top" style="border: none; padding-left: 1em; word-wrap: break-word; overflow-wrap: break-word;">
 
-[Ai-Review](https://github.com/NeuroDong/Ai-Review) ![GitHub Repo stars](https://img.shields.io/github/stars/NeuroDong/Ai-Review?style=social)
+[Ai-Review](https://github.com/NeuroDong/Ai-Review) ![GitHub Repo stars](https://img.shields.io/github/stars/NeuroDong/Ai-Review?style=social&cachebust=1)
 
 LLM-based Paper Review and Optimization Tool.  
 Get **strengths, weaknesses, and suggestions** from a reviewer’s perspective.  
