@@ -1,7 +1,7 @@
 Hi there 👋
 
-- 🔭 I’m currently a PHD focusing on **Deep Learning; Confidence Calibration; Offline Reinforcement Learning; Generative Model**.
-- 👯 I’m looking to discuss **Machine Learning; Confidence Calibration; Offline Reinforcement Learning; Flow Matching; Learning Theory; Conformal Prediction**.
+- 🔭 I’m currently a PHD focusing on **Reinforcement Learning; Generative Model; Multimodal large model; VLA; Confidence Calibration**.
+- 👯 I’m looking to discuss **Machine Learning; Reinforcement Learning; Flow Matching; VLA; Learning Theory; Confidence Calibration**.
 - 😄 I'm doing a research internship at **Shanghai Ai Lab**.
 - 📫 How to reach me: Please mail me at 234603034@csu.edu.cn
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NeuroDong&theme=default&show_icons=true&hide_border=true" /> </div>
 -->
 
-# 📋 Project list
+<!-- # 📋 Project list
 
 ### 🛠️ Useful Tools
 
@@ -100,4 +100,4 @@ Get **strengths, weaknesses, and suggestions** from a reviewer’s perspective.
 
 <p>A new monitoring method is proposed to realize the intelligent monitoring of the taphole blocking time in ironmaking process. According to the tapping stages, a categorical correction model and a remaining blocking time calculation model are constructed to obtain the accurate taphole blocking time.</p>
 <p>&emsp;• <strong>Paper</strong>: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0263224122013513">Measurement</a></p>
-</td></tr></table>
+</td></tr></table> -->
