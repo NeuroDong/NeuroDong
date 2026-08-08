@@ -10,14 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write      # 允许写入文件（提交 SVG）
+      contents: write      # 允许 checkout + git push
+
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
-        run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=NeuroDong&show_icons=true&hide_border=true&theme=default" -o profile/stats.svg
+        run: python3 .github/scripts/generate-stats.py
 
       - name: Commit and push
         run: |
