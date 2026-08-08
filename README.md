@@ -1,8 +1,8 @@
 Hi there 👋
 
 - 🔭 I’m currently a PHD focusing on **Reinforcement Learning; Generative Model; Multimodal large model; VLA; Confidence Calibration**.
-- 👯 I’m looking to discuss **Machine Learning; Reinforcement Learning; Flow Matching; VLA; Learning Theory; Confidence Calibration**.
-- 😄 I'm doing a research internship at **Shanghai Ai Lab**.
+- 👯 I’m looking to discuss **Reinforcement Learning; Unified Multimodal Model; Flow Matching; Learning Theory; Confidence Calibration**.
+- 😄 I'm doing a research internship at **Kuaishou Technology**.
 - 📫 How to reach me: Please mail me at 234603034@csu.edu.cn
 
 ![](https://raw.githubusercontent.com/shijian2001/shijian2001/output/github-contribution-grid-snake.svg)
