@@ -16,8 +16,14 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           curl -sL "https://github-readme-stats-eight-theta.vercel.app/api?username=NeuroDong&show_icons=true&hide_border=true&theme=default" -o profile/stats.svg
+
+          # The stats instance abbreviates 1000+ as "1k". Replace with the exact star count.
+          STARS=$(gh api --paginate "/users/NeuroDong/repos?per_page=100&type=owner" --jq '[.[] | select(.fork == false) | .stargazers_count] | add' | awk '{s+=$1} END {print s}')
+          python3 -c "import pathlib,re,sys; p=pathlib.Path('profile/stats.svg'); u,n=re.subn(r'(data-testid=\"stars\"\\s*>)[^<]+', lambda m: m.group(1)+sys.argv[1], p.read_text(), count=1); n==1 or sys.exit('Could not patch Total Stars'); p.write_text(u); print('Set Total Stars to', sys.argv[1])" "$STARS"
 
       - name: Commit and push
         run: |
